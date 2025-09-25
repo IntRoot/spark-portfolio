@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Open Sans',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ffff;
+  color: black;
+  
+}
+/* #faf7fa; #f2f5f8; */
+code {
+  font-family: -apple-system, BlinkMacSystemFont, 'Open Sans',
+    sans-serif;
+}
+
