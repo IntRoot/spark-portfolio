@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IntRoot/spark-portfolio.git/static/css/main.c40db0d9.css",
+    "main.js": "/IntRoot/spark-portfolio.git/static/js/main.a90ac33e.js",
+    "static/js/506.4d8d6fe6.chunk.js": "/IntRoot/spark-portfolio.git/static/js/506.4d8d6fe6.chunk.js",
+    "static/js/480.48f52600.chunk.js": "/IntRoot/spark-portfolio.git/static/js/480.48f52600.chunk.js",
+    "static/js/219.00f2cff8.chunk.js": "/IntRoot/spark-portfolio.git/static/js/219.00f2cff8.chunk.js",
+    "static/js/297.9cafef50.chunk.js": "/IntRoot/spark-portfolio.git/static/js/297.9cafef50.chunk.js",
+    "static/js/787.28cb0dcd.chunk.js": "/IntRoot/spark-portfolio.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/dice.png": "/IntRoot/spark-portfolio.git/static/media/dice.f940248eccc7e46669d0.png",
+    "static/media/dice1.png": "/IntRoot/spark-portfolio.git/static/media/dice1.427a6662a51fdc922734.png",
+    "static/media/dice2.png": "/IntRoot/spark-portfolio.git/static/media/dice2.27f648e6ba5d2d0e039f.png",
+    "static/media/test.png": "/IntRoot/spark-portfolio.git/static/media/test.71e74f1e39301c54a8d9.png",
+    "index.html": "/IntRoot/spark-portfolio.git/index.html",
+    "main.c40db0d9.css.map": "/IntRoot/spark-portfolio.git/static/css/main.c40db0d9.css.map",
+    "main.a90ac33e.js.map": "/IntRoot/spark-portfolio.git/static/js/main.a90ac33e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/IntRoot/spark-portfolio.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40db0d9.css",
+    "static/js/main.a90ac33e.js"
+  ]
+}
