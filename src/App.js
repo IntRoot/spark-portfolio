@@ -16,7 +16,7 @@ import PostViewPage from './component/page/PostViewPage';
 
 function App(props) {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route index element={<MainPage />} />
         <Route path="post/:postId" element={<PostViewPage />}/>
