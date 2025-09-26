@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[219],{219:function(p,e,s){p.exports=s.p+"static/media/dice2.b047d318274963b41824.png"}}]);
