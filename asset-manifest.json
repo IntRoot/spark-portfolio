@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/spark-portfolio/static/css/main.c40db0d9.css",
-    "main.js": "/spark-portfolio/static/js/main.c675f10a.js",
+    "main.js": "/spark-portfolio/static/js/main.d98624b1.js",
     "static/js/219.8788a828.chunk.js": "/spark-portfolio/static/js/219.8788a828.chunk.js",
+    "static/js/837.5b024a40.chunk.js": "/spark-portfolio/static/js/837.5b024a40.chunk.js",
     "static/js/297.9cafef50.chunk.js": "/spark-portfolio/static/js/297.9cafef50.chunk.js",
     "static/js/787.28cb0dcd.chunk.js": "/spark-portfolio/static/js/787.28cb0dcd.chunk.js",
+    "static/media/temp.png": "/spark-portfolio/static/media/temp.466504a32b6a04e3e3cd.png",
     "static/media/dice2.png": "/spark-portfolio/static/media/dice2.b047d318274963b41824.png",
     "static/media/test.png": "/spark-portfolio/static/media/test.71e74f1e39301c54a8d9.png",
     "index.html": "/spark-portfolio/index.html",
     "main.c40db0d9.css.map": "/spark-portfolio/static/css/main.c40db0d9.css.map",
-    "main.c675f10a.js.map": "/spark-portfolio/static/js/main.c675f10a.js.map",
+    "main.d98624b1.js.map": "/spark-portfolio/static/js/main.d98624b1.js.map",
     "787.28cb0dcd.chunk.js.map": "/spark-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c40db0d9.css",
-    "static/js/main.c675f10a.js"
+    "static/js/main.d98624b1.js"
   ]
 }
